@@ -1,5 +1,5 @@
 body{
-    background: url(/images/banner-bg.jpg) no-repeat top center;
+    background: url(images/banner-bg.jpg) no-repeat top center;
     background-size: cover !important;
 }
 #MainHeading{
